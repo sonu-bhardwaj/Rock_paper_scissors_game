@@ -1,2 +1,2 @@
 rock paper scissor
-Author Sonu Bhardwaj
+Author -Sonu Bhardwaj
